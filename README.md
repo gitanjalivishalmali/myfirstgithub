@@ -1,2 +1,1 @@
-# myfirstgithub
-Demo
+Erasing the contents....
